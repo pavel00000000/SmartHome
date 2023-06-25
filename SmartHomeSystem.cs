@@ -14,7 +14,7 @@ namespace ConsoleApp12
 
         public SmartHomeSystem()
         {
-            motionSensors = new List<MotionSensor>();
+            motionSensors = new  List<MotionSensor>();
         }
 
         public void RegisterMotionSensor(MotionSensor motionSensor)
